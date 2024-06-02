@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModernQuran</string>
+    <string name="checking_api">Checking API connection...</string>
+    <string name="api_success">API connected successfully!</string>
+    <string name="api_failure">Failed to connect to API. Try again.</string>
+    <string name="retry">Retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="surah_id">Surah ID: %d</string>
+</resources>
